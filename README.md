@@ -1,1 +1,1 @@
-# Edge and Motion Detector on RaspberryP1 4
+# Edge and Motion Detection on RaspberryP1 4
