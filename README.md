@@ -1,4 +1,4 @@
-# Edge and Motion Detection on RaspberryP1 4
+# Edge and Motion Detection on Raspberry-Pi 4
 
 ## Introduction
 Raspberry-Pi is a series of small single-board computers (SBCs) developed in the United Kingdom by the Raspberry-Pi Foundation in association with Broadcom. These can be used for smale scale end-to-end applications such as Object detection, face recoginition ,etc. with help of TinyML such as Tensorflow-lite and OpenCV. We can run pretrained models on Raspberry-Pi with ease. 
